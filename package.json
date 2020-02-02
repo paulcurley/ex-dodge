@@ -1,0 +1,19 @@
+{
+  "name": "ex-dodge",
+  "version": "0.1.0",
+  "description": "React Native proximity alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulcurley/ex-dodge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulcurley/ex-dodge/issues"
+  },
+  "homepage": "https://github.com/paulcurley/ex-dodge#readme"
+}
